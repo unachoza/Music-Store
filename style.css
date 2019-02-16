@@ -26,6 +26,8 @@
   }
   
   .container {
+    width: 85%;
+    margin: 0 auto;
   
   }
   
@@ -62,7 +64,9 @@
   /* Home Page Rulesets */
   
   #introduction {
-  
+    text-align: center;
+  margin-top: 15%;
+  margin-bottom: 50%;
   }
   
   #introduction h1 {
@@ -99,6 +103,10 @@
   .instrument {
     width: 90%;
     overflow: auto;
+    background-color: white;
+    opacity: .9;
+    padding: 2% 5%;
+    margin: 5% auto;
   
   }
   
